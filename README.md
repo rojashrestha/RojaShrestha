@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Roja Shrestha
 
-<!--
-**rojashrestha/RojaShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m not just learning to code — I’m learning to express, to create, and to connect.  
+A tech student with a soft spot for beauty, stories, and the unseen magic in ordinary days.
 
-Here are some ideas to get you started:
+💄 I romanticize routines.  
+💻 I write code, but also rewrite myself often.  
+📸 I create content that reflects both mess and meaning.  
+🔮 I believe in intuition just as much as intention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌷 What I'm Made Of  
+- 🍳 Cooking that feels like therapy  
+- 📚 Books that feel like home  
+- 💻 Code that feels like possibility  
+- 💄 Beauty that heals, not hides  
+- 🔮 Spirituality that questions & listens  
+- 🎬 A camera that helps me see myself clearer
+
+---
+
+## ✨ Currently Exploring
+- Building my **personal portfolio** (HTML, CSS, JS)  
+- Documenting a **30-day camera-facing journey**  
+- Dreaming of a **Tech + Beauty digital storytelling space**
+
+---
+
+## 🌐 Let’s Be Friends  
+- [Instagram]((https://www.instagram.com/rojashrestha__/)
+
+
+
+
+_This space is raw, real, and always in progress. Just like me._

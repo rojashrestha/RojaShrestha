@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roja Shrestha
 
-I’m not just learning to code — I’m learning to express, to create, and to connect.  
+I’m not just learning to code. I’m learning to express, to create, and to connect.  
 A tech student with a soft spot for beauty, stories, and the unseen magic in ordinary days.
 
 💄 I romanticize routines.  
